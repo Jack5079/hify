@@ -1,5 +1,5 @@
 // Hify
-export default input => { // A function with input
+module.exports = input => { // A function with input
   return input.split( '' ).map( str => { // Make it an array and do a map (Changing every letter)
     if ( str.length === 1 && str.match( /[a-z]/i ) ) {
       if ( str === str.toUpperCase() ) // If it's uppercase

@@ -2,7 +2,7 @@
   "name": "hify",
   "version": "1.0.0",
   "description": "Makes everything H",
-  "module": "main.mjs",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
