@@ -1,0 +1,12 @@
+{
+  "name": "hify",
+  "version": "1.0.0",
+  "description": "Makes everything H",
+  "module": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jack5079",
+  "license": "ISC"
+}
