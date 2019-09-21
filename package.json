@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Jack5079",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": "./cli.js"
 }
