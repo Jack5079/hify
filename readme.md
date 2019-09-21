@@ -1,3 +1,5 @@
+![Hify logo](https://raw.githubusercontent.com/Jack5079/hify/master/hify.png)
+
 # Hify
 
 Makes a string H.
