@@ -9,5 +9,6 @@ if ( process.argv.slice( 2 ).length ) {
 process.stdin.resume();
 process.stdin.setEncoding( 'utf8' );
 process.stdin.on( 'data', function ( data ) {
-  process.stdout.write( H( data ) );
+    process.stdout.write( H( data ) );
 } );
+process.stdin.pause()
